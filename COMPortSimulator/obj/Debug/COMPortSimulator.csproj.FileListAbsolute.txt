@@ -1,0 +1,12 @@
+D:\GIT\FM\69999 - nasdo AG\C#\COMPortSimulator\COMPortSimulator\bin\Debug\COMPortSimulator.exe.config
+D:\GIT\FM\69999 - nasdo AG\C#\COMPortSimulator\COMPortSimulator\bin\Debug\COMPortSimulator.exe
+D:\GIT\FM\69999 - nasdo AG\C#\COMPortSimulator\COMPortSimulator\bin\Debug\COMPortSimulator.pdb
+D:\GIT\FM\69999 - nasdo AG\C#\COMPortSimulator\COMPortSimulator\obj\Debug\COMPortSimulator.csprojResolveAssemblyReference.cache
+D:\GIT\FM\69999 - nasdo AG\C#\COMPortSimulator\COMPortSimulator\obj\Debug\COMPortSimulator.exe
+D:\GIT\FM\69999 - nasdo AG\C#\COMPortSimulator\COMPortSimulator\obj\Debug\COMPortSimulator.pdb
+C:\Users\fstel\source\repos\COMPortSimulator\COMPortSimulator\bin\Debug\COMPortSimulator.exe.config
+C:\Users\fstel\source\repos\COMPortSimulator\COMPortSimulator\bin\Debug\COMPortSimulator.exe
+C:\Users\fstel\source\repos\COMPortSimulator\COMPortSimulator\bin\Debug\COMPortSimulator.pdb
+C:\Users\fstel\source\repos\COMPortSimulator\COMPortSimulator\obj\Debug\COMPortSimulator.csproj.CoreCompileInputs.cache
+C:\Users\fstel\source\repos\COMPortSimulator\COMPortSimulator\obj\Debug\COMPortSimulator.exe
+C:\Users\fstel\source\repos\COMPortSimulator\COMPortSimulator\obj\Debug\COMPortSimulator.pdb
